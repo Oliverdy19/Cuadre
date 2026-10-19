@@ -1,0 +1,23 @@
+CUADRE — finanzas personales para RD
+
+INSTALAR EN TU TELÉFONO (una sola vez)
+1. Descomprime este .zip en la computadora.
+2. Entra a https://app.netlify.com/drop y arrastra la carpeta "cuadre". Es gratis.
+   (Crea una cuenta gratis para que el enlace no expire. También sirve GitHub Pages.)
+3. Abre en el teléfono el enlace que te da Netlify.
+   - Android (Chrome): menú ⋮ → "Instalar app".
+   - iPhone (Safari): Compartir → "Agregar a inicio".
+Después funciona sin internet.
+
+TUS DATOS
+- Viven solo en tu teléfono. No hay servidor ni cuenta.
+- Cuentas → "Descargar respaldo" guarda una copia. Con "Restaurar" la recuperas en otro teléfono.
+- Ya trae cargadas tus deudas, tu salario, tus gastos fijos y el fondo de emergencia.
+  Agrega tu cuenta de nómina con su saldo para que el flujo de efectivo sea real.
+
+IMPORTAR DEL BANCO
+Movimientos → "Importar estado de cuenta" (PDF, Excel o CSV; si el PDF tiene contraseña, la app la pide). Eliges las columnas, ves una vista previa y la app
+descarta los repetidos antes de guardar.
+
+PRUEBAS DEL MOTOR (opcional, requiere Node)
+node tests/engine.test.js
